@@ -1,0 +1,4 @@
+Charset,UTF-8
+type,shell
+name,Dipped Needle
+directory,dipped_needle_zi
